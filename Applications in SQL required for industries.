@@ -1,0 +1,15 @@
+Application - Application is a set of programs which are used to perform a particular task.
+or we can say that.
+"We use application to make our work easier and faster".
+
+   Types of Applications:
+-> Stand alone application.
+-> Web Application.
+-> Client server/ web application.
+
+(1) Stand alone application --> Those applications which are installed in a computer and only single person can use of it at a time is called stand alone application.
+                                Example: Suppose today i have drawn a painting in the software paint and saved that painting as a "FirstPainting". Now the painting is saved in my hard drive disk. now if i want to open that painting in my friend's laptop which was saved in my laptop the i am not able to findmy painting because it is present in my hard drive.
+                              * So in stand alone application the data is stored is local to user.
+                                Examples : Paint, Adobe photoshop, notepad etc.    
+(2) Web Application --> Those application which can be accessed through browser using an internet connection is called web application.
+                        Example: 
